@@ -2,10 +2,19 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suchith2510&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suchith2510&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=suchith2510&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;custom_title=My%20Stats" 
+    height="150" 
+    alt="stats graph" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=suchith2510&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dark&amp;hide_border=false" 
+    height="150" 
+    alt="languages graph" 
+  />
 </div>
+
 
 ###
 
