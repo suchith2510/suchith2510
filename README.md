@@ -108,6 +108,13 @@
   </a>
 </div>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/suchith2510/suchith2510/output/snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
 
 <h1 align="left">Thanks for stopping by!  <br>Always learning, always building 🚀</h1>
 
